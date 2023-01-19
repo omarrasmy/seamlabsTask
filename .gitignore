@@ -1,5 +1,4 @@
 .idea
-.env
 .env.prod
 .env.dev
 .phpunit.result.cache
