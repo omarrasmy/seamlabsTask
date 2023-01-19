@@ -39,14 +39,14 @@ docker compose exec app php artisan migrate
 ```
 
 ## Generate swagger documentation 
-``
+````
 1- open app cmd 
 run
 php artisan l5-swagger:generate
 you can access swagger by this link
 "http://localhost/docs#/Auth"
 you can test all APIS from that link
-``
+````
 
 Run this command to create migration
 ```
